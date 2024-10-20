@@ -1,0 +1,27 @@
+# Vivado-generated files and directories to ignore
+*.log
+*.jou
+*.str
+*.ncd
+*.rpt
+*.bit
+*.tcl
+*.lock
+*.xml
+*.bin
+*.hwdef
+*.xpr
+*.wcfg
+
+# Ignore Vivado-generated directories
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.sdk/
+.gen/
+
+# General
+*.backup
+*~

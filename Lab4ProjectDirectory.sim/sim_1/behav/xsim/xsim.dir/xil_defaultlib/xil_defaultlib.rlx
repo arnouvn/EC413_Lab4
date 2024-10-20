@@ -1,0 +1,23 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/arnou/Downloads/ALU_behavioral.v,1728614158,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/FA_str.v,,ALU_behavioral,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/FA_str.v,1728630789,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/ALU_32bit_TB.v,,FA_str,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/ALU_1bit_TB.v,1728621344,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/ALU_32bit.v,,ALU_1bit_TB,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/ALU_32bit_DFF_TB.v,1728698410,verilog,,,,ALU_32bit_DFF_TB,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/ALU_32bit_TB.v,1728657383,verilog,,C:/Users/arnou/Downloads/ALU_behavioral.v,,ALU_32bit_TB,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/MUX_Prelab_TB.v,1728525322,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/MUX_Prelab_verif.v,,MUX_Prelab_TB,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/TEST_TB.v,1728631609,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/dff.v,,TEST_TB,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/nbit_FA_dff_TB.v,1728438655,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/nbit_FA_str.v,,nbit_FA_dff_TB,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/ALU_1bit.v,1728620856,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/ALU_32bit.v,,ALU_1bit,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/ALU_32bit.v,1728698753,verilog,,C:/Users/arnou/Downloads/ALU_behavioral.v,,ALU_32bit,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/ALU_32bit_DFF.v,1728697816,verilog,,C:/Users/arnou/Downloads/ALU_behavioral.v,,ALU_32bit_DFF,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/MUX_Prelab.v,1728523032,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/MUX_Prelab_TB.v,,MUX_Prelab,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/MUX_Prelab_verif.v,1728525044,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/TEST_TB.v,,MUX_Prelab_verif,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/nbit_FA_dff.v,1728437641,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/nbit_FA_dff_TB.v,,nbit_FA_dff,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/nbit_FA_str.v,1728435559,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/nbit_dff.v,,nbit_FA_str,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/nbit_dff.v,1728435787,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/ALU_32bit_DFF_TB.v,,nbit_dff,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/nbit_not.v,1728439228,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/MUX_Prelab_TB.v,,nbit_not,,,,,,,,
+C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/dff.v,1728323635,verilog,,C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sources_1/new/nbit_dff.v,,dff,,,,,,,,
