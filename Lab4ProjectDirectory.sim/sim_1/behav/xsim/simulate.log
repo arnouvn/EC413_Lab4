@@ -1,0 +1,17 @@
+Time resolution is 1 ps
+Time = 0 | R2 = 0 | R3 = 0 | C_in = 0 | ALUOp = 000 | R1 = 0 | c_out = 0
+Time = 10000 | R2 = 1 | R3 = 0 | C_in = 0 | ALUOp = 000 | R1 = 1 | c_out = 0
+Time = 20000 | R2 = 0 | R3 = 0 | C_in = 0 | ALUOp = 000 | R1 = 0 | c_out = 0
+Time = 30000 | R2 = 1 | R3 = 0 | C_in = 0 | ALUOp = 001 | R1 = 0 | c_out = 0
+Time = 40000 | R2 = 0 | R3 = 0 | C_in = 0 | ALUOp = 001 | R1 = 1 | c_out = 0
+Time = 50000 | R2 = 1 | R3 = 1 | C_in = 0 | ALUOp = 010 | R1 = 0 | c_out = 1
+Time = 60000 | R2 = 1 | R3 = 0 | C_in = 1 | ALUOp = 010 | R1 = 0 | c_out = 1
+Time = 70000 | R2 = 1 | R3 = 1 | C_in = 0 | ALUOp = 011 | R1 = 1 | c_out = 0
+Time = 80000 | R2 = 1 | R3 = 0 | C_in = 0 | ALUOp = 011 | R1 = 0 | c_out = 1
+Time = 90000 | R2 = 1 | R3 = 0 | C_in = 0 | ALUOp = 100 | R1 = 1 | c_out = 0
+Time = 100000 | R2 = 0 | R3 = 1 | C_in = 0 | ALUOp = 100 | R1 = 1 | c_out = 0
+Time = 110000 | R2 = 1 | R3 = 1 | C_in = 0 | ALUOp = 100 | R1 = 1 | c_out = 1
+Time = 120000 | R2 = 1 | R3 = 0 | C_in = 0 | ALUOp = 101 | R1 = 0 | c_out = 0
+Time = 130000 | R2 = 1 | R3 = 1 | C_in = 0 | ALUOp = 101 | R1 = 1 | c_out = 1
+Time = 140000 | R2 = 0 | R3 = 0 | C_in = 0 | ALUOp = 101 | R1 = 0 | c_out = 0
+$finish called at time : 150 ns : File "C:/Users/arnou/VivadoProjects/EC413_VivadoFiles/Lab4/Lab4ProjectDirectory/Lab4ProjectDirectory.srcs/sim_1/new/ALU_1bit_TB.v" Line 93
